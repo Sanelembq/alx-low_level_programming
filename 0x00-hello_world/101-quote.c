@@ -2,7 +2,7 @@
 
 
 /**
- * main - prints "and that pieceof art is usefull" - Dora Korpar, 2015-10-19
+ * main - prints "and that pieceof art is usefull" - Dora korpar, 2015-10-19
  * followed by a newline, to standard error
  * Return: Alway 1.
  */
